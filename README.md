@@ -1,10 +1,9 @@
 # Cursed Pong
 A fun game based on the game Pong created by Atari
 ## Compatible platforms
-There are only three platforms. The three are the following:  
+There are only two compatible platforms. The two are the following:  
 - Windows
 - MacOS
-- Linux
 
 ## Installation
 To install, please contact `cursedpong@gmail.com`
